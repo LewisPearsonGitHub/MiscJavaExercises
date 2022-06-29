@@ -1,0 +1,2 @@
+20220629 16:08:27 DEBUG [main] Runner Runner.java14 - Testing logger writing to an errors file
+20220629 16:08:27 INFO  [main] Runner Runner.java15 - Testing logger that prints to the console
